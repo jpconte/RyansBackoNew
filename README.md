@@ -110,4 +110,8 @@ admin/
 
 ## Soporte
 
+<<<<<<< HEAD
 Para cualquier consulta o problema, contacta al desarrollador.
+=======
+Para cualquier consulta o problema, contacta al desarrollador.
+>>>>>>> 3283011f32c8d563c00e7a8a4c4e6caeb4e44eb0
